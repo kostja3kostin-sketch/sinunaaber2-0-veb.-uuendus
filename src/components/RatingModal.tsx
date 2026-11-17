@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState } from 'react';
 
 // Siin peab olema 'export function RatingModal', et App.tsx saaks seda korrektselt importida

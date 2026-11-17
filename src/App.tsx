@@ -27,7 +27,7 @@ import {
   Phone,
   Mail,
   Calendar,
-  ExternalLink,
+  ExternalLink, 
 } from 'lucide-react';
 import { supabase } from './supabaseClient';
 
